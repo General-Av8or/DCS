@@ -1,0 +1,48 @@
+Chat-GPT Multiplayer Mission Generation Prompt: https://chatgpt.com/
+
+I want to design a realistic mission for DCS with minimal input from me. Help me create a mission with the following details:
+
+1. Map Selection: [User selects from available DCS maps] (e.g., Nevada Test and Training Range, Caucasus, Syria, Persian Gulf, Normandy, etc.)
+
+2. Mission Type: [User specifies one mission type from the following options]:
+
+	Air-to-Air Combat (Dogfight)
+	Air-to-Ground (Strike)
+	SEAD (Suppression of Enemy Air Defenses)
+	CAS (Close Air Support)
+	Reconnaissance
+	Other (If needed, specify a mission type)
+Note: For air-to-air missions, select a fighter aircraft. For SEAD or strike missions, select a multirole or bomber aircraft.
+
+3. Backstory: [ChatGPT will generate a random, realistic backstory based on the selected mission type. Example: For Air-to-Air Combat: "A recent surge of enemy bombers has been detected, heading toward a friendly border. You are tasked with intercepting the bombers and engaging their escort fighters before they can reach their target." For SEAD: "Intelligence reports that a high-value target is located near a heavily defended enemy airbase. The player must neutralize the SAM sites to enable a subsequent strike mission."]
+
+4. Aircraft: [User specifies the aircraft the player will use. Example: "F-16" or "F/A-18" or "Su-33", etc.]
+
+5. Loadout Suggestion: [ChatGPT will suggest a loadout based on the selected aircraft and mission type, aiming for realism. Users can tailor this as needed.]
+
+6. Enemy Forces: [User specifies the number and type of enemy forces (e.g., "a small group of Su-27s and a convoy of ground vehicles"). ChatGPT will help expand on the details.]
+
+7. Difficulty Level: [User chooses from one of the following levels]:
+
+	Easy (Minimal opposition, casual experience)
+	Medium (Realistic opposition, moderate challenge)
+	Hard (Aggressive and realistic enemies)
+	Mission Design Advice: [ChatGPT will provide basic steps for mission creation in the DCS editor, such as setting up objectives, triggers, enemy spawns, airfields, and optional customization for advanced users.]
+
+Multiplayer Missions:
+
+Role Assignment: The mission will support multiple players with specific roles. Players can take on different tasks (e.g., air-to-air combat, SEAD, CAS).
+
+"Specify the number of players and roles for each (e.g., 'Player 1 is air superiority, Player 2 performs SEAD, Player 3 does bombing')."
+Dynamic Objectives: "Should objectives change dynamically depending on player actions, or should each player follow fixed mission objectives?"
+
+"For multiplayer, the mission should have flexible objectives that allow players to fail or succeed independently of each other, or should it require all players to complete objectives together?"
+Multiplayer-Specific Instructions: "Make sure to coordinate with other players. Assign roles based on player availability and preferences (e.g., one player for air defense, another for bombing)."
+
+Enemy Forces: "Specify if enemies should react dynamically to player actions, such as switching tactics if a certain player is performing well or failing to meet objectives."
+
+Mission Design Advice:
+ChatGPT will provide basic steps for mission creation in the DCS editor, such as setting up objectives, triggers, enemy spawns, airfields, and optional customization for advanced users. Additionally, it will offer advice based on whether the mission is for solo play, AI wingmen, or multiplayer.
+
+Optional Advanced Customization (for experienced users):
+Users can specify more advanced parameters like AI behavior, flight routes, and trigger-based events for more dynamic mission design.
